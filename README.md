@@ -1,0 +1,2 @@
+# seajsDemo
+CMD seajs angularjs
